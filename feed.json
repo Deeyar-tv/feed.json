@@ -1,0 +1,23 @@
+{
+  "providerName": "Deeyar TV",
+  "lastUpdated": "2025-03-14T12:00:00Z",
+  "language": "en-US",
+  "liveFeeds": [
+    {
+      "id": "deeyar_tv_live",
+      "title": "Deeyar TV Live",
+      "shortDescription": "Watch Deeyar TV’s latest news, politics, and entertainment.",
+      "longDescription": "24/7 streaming of news, politics, culture, and music from Deeyar TV.",
+      "thumbnail": "https://raw.githubusercontent.com/Deeyar-tv/DTV/main/DTV.png",
+      "genres": ["News", "Entertainment", "Music"],
+      "releaseDate": "2025-03-14",
+      "content": {
+        "url": "https://59d39900ebfb8.streamlock.net/viet-sports/viet-sports/playlist.m3u8",
+        "videoType": "HLS",
+        "quality": "HD"
+      },
+      "tags": ["News", "Live", "Afghanistan"],
+      "liveFeed": true
+    }
+  ]
+}
