@@ -19,5 +19,12 @@
       "tags": ["News", "Live", "Afghanistan"],
       "liveFeed": true
     }
+  ],
+  "additionalFeeds": [
+    {
+      "id": "feed_002",
+      "title": "Deeyar TV Secondary Feed",
+      "feedUrl": "https://raw.githubusercontent.com/Deeyar-tv/feed.json/refs/heads/main/feed.json"
+    }
   ]
 }
